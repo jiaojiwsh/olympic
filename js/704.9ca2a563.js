@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_oldbook"]=self["webpackChunkvue_oldbook"]||[]).push([[704],{2704:function(e,u,s){s.r(u),s.d(u,{default:function(){return d}});var n=function(){var e=this,u=e._self._c;return u("div",{staticClass:"address"},[u("router-view")],1)},l=[],r={name:"Address"},t=r,o=s(1001),a=(0,o.Z)(t,n,l,!1,null,null,null),d=a.exports}}]);
+//# sourceMappingURL=704.9ca2a563.js.map
